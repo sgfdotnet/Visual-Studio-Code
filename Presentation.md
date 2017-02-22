@@ -1,6 +1,9 @@
 # SPF.NET May 2017: VS Code 
 
+![Logo](/sgfnet-logo-color-light.png)
+
 ## TODO
+
 * Walk through Install
 * Flesh out UI
 * Research Extensions
