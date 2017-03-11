@@ -4,6 +4,11 @@
 
 ## TODO
 
+* Walk through Install
+* Flesh out UI
+* Research Extensions
+* Flesh Out Extension Install
+* Find more cool Extensions
 * Research Git
 * Research Terminal
 * Create .Net Demo
@@ -72,45 +77,27 @@
     * Quick Open/Command Bar/Command Palette (Ctrl + P)
     * List of Shortctus 
 * Open Folder
-* Markdown
-    * Allows for Markdown preview
-    * I use Markdown a lot, and I still mess it up sometimes
-    * I also have this Markdown linting extension installed
-    * Not sure it is the way to go, but I am often annoyed by *lint extensions
 * Search
-    * Searches all files in currently open folder
-    * Also does replace
 * Compare
-    * Right click and Select for Compare
-    * Right click and Compare To...
 * Git
-    * A simple Git UI, will discuss more later
 * Debug
-    * It debugs things, will discuss later
 * Extensions
-    * This is where VS Code gets fun
-
+* Markdown
 
 ## Extensions
 ### Installing
 
 * Walk through UI
-* Command Palette
-    * ext install vscode-icons
+* Command 
 
 ### Cool Extensions
-
 * C#
 * npm
 * git history
 * Regex
 * vscode-icons
 * Show list of installed extensions
-* Everybody's extension list would be different
-* Some people might use the vim extension, because they are those people
-* Some people will use the Python extension, roughly 1.5 million people
 * More at [VS Code Marketplace](marketplace.visualstudio.com/VSCode)
-* Thousands of them 
 
 ## Git
 

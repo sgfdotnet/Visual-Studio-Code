@@ -1,0 +1,10 @@
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Visual-Studio-Code.deps.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Visual-Studio-Code.runtimeconfig.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Visual-Studio-Code.runtimeconfig.dev.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Visual-Studio-Code.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\bin\Debug\netcoreapp1.1\Visual-Studio-Code.pdb
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\obj\Debug\netcoreapp1.1\Visual-Studio-Code.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\obj\Debug\netcoreapp1.1\Visual-Studio-Code.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\obj\Debug\netcoreapp1.1\Visual-Studio-Code.pdb
