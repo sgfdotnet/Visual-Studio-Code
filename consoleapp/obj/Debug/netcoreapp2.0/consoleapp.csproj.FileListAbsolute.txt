@@ -1,0 +1,9 @@
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\bin\Debug\netcoreapp2.0\consoleapp.deps.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\bin\Debug\netcoreapp2.0\consoleapp.runtimeconfig.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\bin\Debug\netcoreapp2.0\consoleapp.runtimeconfig.dev.json
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\bin\Debug\netcoreapp2.0\consoleapp.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\bin\Debug\netcoreapp2.0\consoleapp.pdb
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\obj\Debug\netcoreapp2.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\obj\Debug\netcoreapp2.0\consoleapp.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\obj\Debug\netcoreapp2.0\consoleapp.dll
+C:\Users\Wesley\Documents\Code\Visual-Studio-Code\consoleapp\obj\Debug\netcoreapp2.0\consoleapp.pdb

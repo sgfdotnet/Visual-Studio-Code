@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}\\project.json"
+                "${workspaceRoot}\\consoleapp\\consoleapp.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

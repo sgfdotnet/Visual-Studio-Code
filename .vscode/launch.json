@@ -1,12 +1,21 @@
 {
     "version": "0.2.0",
     "configurations": [
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "url": "http://localhost:5000",
+            "webRoot": "${workspaceRoot}/webapp/bin/Debug/netcoreapp2.0/webapp.dll",
+            "sourceMaps": true
+        },
         {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\bin\\Debug\\netcoreapp1.1\\Visual-Studio-Code.dll",
+            "program": "${workspaceRoot}\\consoleapp\\bin\\Debug\\netcoreapp2.0\\consoleapp.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "externalConsole": false,

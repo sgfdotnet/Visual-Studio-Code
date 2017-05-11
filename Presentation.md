@@ -6,8 +6,6 @@
 
 * Research Git
 * Research Terminal
-* Create .Net Demo
-* Create Debug Demo
 
 ## Intro
 
@@ -69,8 +67,9 @@
 
 * Useful shortcuts
     * Terminal (Ctrl + `)
-    * Quick Open/Command Bar/Command Palette (Ctrl + P)
-    * List of Shortctus 
+    * Quick Open/Command Bar/Command Palette (Ctrl + Shift + P)
+    * Search for Shortcuts
+
 * Open Folder
 * Markdown
     * Allows for Markdown preview
@@ -113,12 +112,24 @@
 * Thousands of them 
 
 ## Git
+* Fancy Git tab
 
 ## Terminal
 
 ## Install .Net Core
 ### Steps
-1. dotnet new
-2. dotnet restore
+#### Console App
+1. dotnet new console -o consoleapp
+2. cd consoleapp
+3. dotnet restore
+4. dotnet run
+
+#### ASP.NET Core App
+1.  dotnet new mvc -o webapp
+2. cd webapp
+3. dotnet restore
+4. dotnet run
 
 ## Debugging
+* Console App
+* Web App
