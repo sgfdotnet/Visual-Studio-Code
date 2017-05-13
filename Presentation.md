@@ -2,11 +2,6 @@
 
 ![Logo](/sgfnet-logo-color-light.png)
 
-## TODO
-
-* Research Git
-* Research Terminal
-
 ## Intro
 
 * History
@@ -16,7 +11,8 @@
     * Since that time have had a roughly monthly release cadence
     * They have added a bunch of stuff
     * Support seems to be very good
-    * Latest version added: XXXX
+    * Can see the latest patch notes [here](https://code.visualstudio.com/updates/v1_12)
+    * Latest version added: 1.12
 * Basics
     * Based on Electron
     * It is not a form of Atom which is a different text/code editor
@@ -112,11 +108,20 @@
 * Thousands of them 
 
 ## Git
+
 * Fancy Git tab
+* Does a lot of the basic stuff that you would expect from a GUI Git client
+* I think anybody who does anything in Git generally tells me I should be using the terminal to interact with it
+* I like the Git History extension (git log)
 
 ## Terminal
 
-## Install .Net Core
+* Integrated Terminal Ctrl + ~
+* Can choose between Powershell (Windows Default), Command Prompt, Git Shell, and WSL Bash (Windows Subsystem for Linux Only)
+* Functions like a full terminal, not restricted to just VS Code functionality
+* Its a terminal, what more can I say?
+
+## Doing some Development
 ### Steps
 #### Console App
 1. dotnet new console -o consoleapp
@@ -129,6 +134,13 @@
 2. cd webapp
 3. dotnet restore
 4. dotnet run
+
+#### Vue.JS App
+1. npm install --global vue-cli
+2. vue init webpack testapp
+3. cd testapp
+4. npm install
+5. npm run dev
 
 ## Debugging
 * Console App
