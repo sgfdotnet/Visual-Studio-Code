@@ -63,9 +63,9 @@
 
 * Useful shortcuts
     * Terminal (Ctrl + `)
-    * Quick Open/Command Bar/Command Palette (Ctrl + Shift + P)
+    * Quick Open/Command Bar/Command Palette (Ctrl + P)
     * Search for Shortcuts
-
+    * Mulit-cursor Shift+Alt+I
 * Open Folder
 * Markdown
     * Allows for Markdown preview
@@ -106,6 +106,7 @@
 * Some people will use the Python extension, roughly 1.5 million people
 * More at [VS Code Marketplace](marketplace.visualstudio.com/VSCode)
 * Thousands of them 
+* Show React extensions
 
 ## Git
 
@@ -120,6 +121,8 @@
 * Can choose between Powershell (Windows Default), Command Prompt, Git Shell, and WSL Bash (Windows Subsystem for Linux Only)
 * Functions like a full terminal, not restricted to just VS Code functionality
 * Its a terminal, what more can I say?
+* Ctrl + P -> "> Shell" to choose default shell
+* Can switch between Bash, Powershell, Cmd easily
 
 ## Doing some Development
 ### Steps
@@ -141,6 +144,12 @@
 3. cd testapp
 4. npm install
 5. npm run dev
+
+#### React + Typescript App
+1. npm install -g create-react-app
+2. create-react-app reacttsapp --scripts-version=react-scripts-ts
+3. cd reacttsapp
+4. npm run start
 
 ## Debugging
 * Console App
