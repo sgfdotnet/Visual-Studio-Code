@@ -61,12 +61,15 @@
 ## UI
 
 * Welcome Page
-* Useful shortcuts
+* Useful shortc
     * Quick Open/Command Bar/Command Palette (Ctrl + Shift + P)
     * Terminal (Ctrl + `)
     * Search for Shortcuts
-    * Mulit-cursor Shift+Alt+I
+    * Mulit-cursor at end of line Shift+Alt+I
     * File History Ctrl + Tab
+    * Auto format: Shift + Alt + F
+        * Use jsonexample.txt
+        * Switch Language mode to JSON through Command Palette
 * Open Folder
 * Markdown
     * Allows for Markdown preview (Ctrl+K V)
@@ -100,7 +103,9 @@
 * git history
 * Regex
 * vscode-icons
-* Show list of installed extensions
+* MS SQL
+    * Will let you connect to Servers and run some queries
+    * Lets you export results as JSON, which I have not seen in an MS product before
 * Everybody's extension list would be different
 * Some people might use the vim extension, because they are those people
 * Some people will use the Python extension, roughly 2 million people
