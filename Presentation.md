@@ -14,7 +14,7 @@
     * Can see the latest patch notes [here](https://code.visualstudio.com/updates/v1_12)
     * Latest version added: 1.12
 * Basics
-    * Based on Electron
+    * Based on Electron, which uses web technologies to build desktop apps
     * It is not a form of Atom which is a different text/code editor
     * It is fully cross platform so it runs on Windows, Mac, and Linux
     * I believe that the experience on all of them is the same
@@ -26,7 +26,7 @@
     * Speaking personally, it has replaced VS for a good portion of my personal development
     * I used to use a mixture of Notepad++, Visual Studio, and more when doing web development
     * This was often combined by a few terminal windows, or CMD.exe on Windows
-    * VS has replaced all of that
+    * VS Code has replaced all of that
     * It has also taken over the role at work of viewing/examining SQL files
     * Instances where I just need to jump in, look at or copy a file, then move on
     * Opens WAY faster than SQL Management Studio or Visual Studio
@@ -46,7 +46,6 @@
     * Terminal
         * Lets talk about Terminal
         * That little window at the bottom
-        * On Windows it uses Powershell, on other OS's it uses the shell
     * .Net Core
         * We will close out by installing and working with .Net Core
         * This gives us a chance to talk about the actual coding
@@ -61,17 +60,18 @@
 
 ## UI
 
+* Welcome Page
 * Useful shortcuts
+    * Quick Open/Command Bar/Command Palette (Ctrl + Shift + P)
     * Terminal (Ctrl + `)
-    * Quick Open/Command Bar/Command Palette (Ctrl + P)
     * Search for Shortcuts
     * Mulit-cursor Shift+Alt+I
+    * File History Ctrl + Tab
 * Open Folder
 * Markdown
-    * Allows for Markdown preview
+    * Allows for Markdown preview (Ctrl+K V)
     * I use Markdown a lot, and I still mess it up sometimes
     * I also have this Markdown linting extension installed
-    * Not sure it is the way to go, but I am often annoyed by *lint extensions
 * Search
     * Searches all files in currently open folder
     * Also does replace
@@ -103,7 +103,7 @@
 * Show list of installed extensions
 * Everybody's extension list would be different
 * Some people might use the vim extension, because they are those people
-* Some people will use the Python extension, roughly 1.5 million people
+* Some people will use the Python extension, roughly 2 million people
 * More at [VS Code Marketplace](marketplace.visualstudio.com/VSCode)
 * Thousands of them 
 * Show React extensions
@@ -118,11 +118,10 @@
 ## Terminal
 
 * Integrated Terminal Ctrl + ~
+* Command Palette -> Default Shell
 * Can choose between Powershell (Windows Default), Command Prompt, Git Shell, and WSL Bash (Windows Subsystem for Linux Only)
 * Functions like a full terminal, not restricted to just VS Code functionality
 * Its a terminal, what more can I say?
-* Ctrl + P -> "> Shell" to choose default shell
-* Can switch between Bash, Powershell, Cmd easily
 
 ## Doing some Development
 ### Steps
@@ -133,7 +132,7 @@
 4. dotnet run
 
 #### ASP.NET Core App
-1.  dotnet new mvc -o webapp
+1. dotnet new mvc -o webapp
 2. cd webapp
 3. dotnet restore
 4. dotnet run
@@ -153,4 +152,3 @@
 
 ## Debugging
 * Console App
-* Web App

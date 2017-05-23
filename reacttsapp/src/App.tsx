@@ -13,6 +13,7 @@ class App extends React.Component<{}, null> {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
+          This is indeed a test
         </p>
       </div>
     );

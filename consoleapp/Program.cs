@@ -4,13 +4,20 @@ using System.Collections.Generic;
 
 namespace consoleapp
 {
-    class Program
+    public class Program
     {
         static List<string> pieceofthelist = new List<string>();
         static void Main(string[] args)
         {
             DoAThing();
             Console.WriteLine("Hello World!");
+
+            string test = "dkdkdk";
+            int x = test.Length;
+
+            /* Snippets are in File -> Preferences, and are delineated by language (try "dnugdemo")*/
+            /* I installed a Projects Snippets plugin to let me use snippets at a project and not computer level, but they can live side by side */
+            
         }
 
         static void DoAThing()
